@@ -86,7 +86,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(Home_Edited.png) no-repeat center;
+    background: url(Home.png) no-repeat center;
 }
 
 .ds4 .p0{
@@ -110,7 +110,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(Select_Edited.png);
+    background: url(Select.png);
     width: 26px;
     height: 43px;
     opacity: 0;
